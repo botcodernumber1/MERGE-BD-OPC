@@ -1,0 +1,42 @@
+/*
+Tablet layout
+*/
+@media only screen and (min-width: 200px) and (max-width: 991px){
+}
+
+/*
+Mobile layout
+*/
+@media only screen and (min-width: 200px) and (max-width: 767px){
+	
+	.slider-logo {
+		width:100%;
+	}
+	.menu {
+		width:50%;
+	}
+   .icons {
+     width:100%;
+   }
+   .third-section-content{
+	   margin-top:850px;
+   }
+   .works-photo{
+	   margin-left:70px;
+   }
+   .our-works-photos{
+	    width:100%;
+   }
+   .team-photos{
+	  
+   }
+   .one-photos{
+	   width:100%;
+   }
+   .one-photos p{
+	  margin-left:100px;
+   }
+   #footer-icon{
+	   margin-top:2000px;
+   }
+}
